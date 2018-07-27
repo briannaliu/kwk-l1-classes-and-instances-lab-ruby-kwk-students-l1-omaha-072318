@@ -7,6 +7,9 @@ Person.name = "adele_goldberg"
 Person.name = "alan_kay"
 
 
+
+
+
 class Person
   def initialize (name)
     @name = name
@@ -15,4 +18,3 @@ end
 
 adele_goldberg Person.new ("adele_goldberg")
 alan_kay Dog.new ("alan_kay")
-lassie Dog.new ("lassie")
