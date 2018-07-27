@@ -5,4 +5,4 @@ class Person
 end
 
 adele_goldberg = Person.new("adele_goldberg")
-alan_kay = Dog.new("alan_kay")
+alan_kay = Person.new("alan_kay")
