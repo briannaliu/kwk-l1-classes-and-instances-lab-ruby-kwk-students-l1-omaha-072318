@@ -1,6 +1,6 @@
 # dog.rb
 class Dog
-  attr_accessor 
+  attr_accessor :name
 end
 
 fido = Dog.new
