@@ -1,11 +1,11 @@
-# dog.rb
-class Dog
-  attr_accessor :name
-end
+# # dog.rb
+# class Dog
+#   attr_accessor :name
+# end
 
-Dog.name = "fido"
-Dog.name = "snoopy"
-Dog.name = "lassie"
+# Dog.name = "fido"
+# Dog.name = "snoopy"
+# Dog.name = "lassie"
 
 
 class Dog
@@ -15,3 +15,5 @@ class Dog
 end
 
 fido Dog.new ("fido")
+snoopy Dog.new ("snoopy")
+lassie Dog.new ("lassie")
