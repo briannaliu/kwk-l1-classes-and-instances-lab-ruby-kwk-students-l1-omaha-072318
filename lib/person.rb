@@ -1,4 +1,7 @@
 # person.rb
-class Persopn
-  adele_goldberg
-  alan_kay
+class Person
+    attr_accessor :name
+end
+
+Person.name = "adele_goldberg"
+Person.name = "alan_kay"
